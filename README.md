@@ -21,8 +21,7 @@ Anda dapat melakukannya dengan klik dua kali pada file index.html atau dengan me
 3. **Live Server (Opsional)**: Untuk pengalaman pengembangan yang lebih baik, Anda dapat menggunakan ekstensi "Live Server" di Visual Studio Code untuk menjalankan dan melihat perubahan secara real-time.
 
 ## D) Bonus yang Dikerjakan
- 1. Deployment
- 2. Kreativitas
+ 1.  Kreativitas
 
 ## E) Kesulitan yang Dihadapi
 - Penyesuaian Desain: Mencari keseimbangan antara estetika dan fungsionalitas dalam desain yang eksklusif, terutama dalam menjaga keterbacaan teks sambil tetap menonjolkan elemen visual.
