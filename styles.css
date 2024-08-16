@@ -1,0 +1,113 @@
+/* Importing a modern font for an elegant look */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: linear-gradient(135deg, #6d4c41 0%, #d8cfc4 100%);
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+    border-bottom: 4px solid #d8cfc4;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 3.5em;
+    margin: 0;
+    font-weight: 600;
+}
+
+header p {
+    font-size: 1.4em;
+    margin: 10px 0 0;
+}
+
+.container {
+    width: 85%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+#about {
+    margin: 40px 0;
+    text-align: center;
+}
+
+#about img {
+    border-radius: 50%;
+    width: 300px; /* Larger photo size */
+    height: 300px;
+    object-fit: cover;
+    margin-top: 20px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#about img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 3px solid #d8cfc4;
+    padding-bottom: 10px;
+    font-size: 2.2em;
+    font-weight: 600;
+    color: #6d4c41;
+}
+
+.project, .experience, .contact {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    border: 1px solid #d8cfc4;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project h3, .experience ul li {
+    color: #6d4c41;
+    font-weight: 600;
+}
+
+.project:hover, .experience:hover {
+    background-color: #f9f4f1;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    background: linear-gradient(135deg, #6d4c41 0%, #d8cfc4 100%);
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 30px;
+    border-top: 4px solid #d8cfc4;
+}
+
+footer p {
+    margin: 0;
+}
+
+a {
+    color: #d8cfc4;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #6d4c41;
+    text-decoration: underline;
+}
