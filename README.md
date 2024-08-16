@@ -23,10 +23,11 @@ D) Bonus yang Dikerjakan
  1. Deployment
  2. Kreativitas
 
-E) Kesulitan yang Dihadapi
+## E) Kesulitan yang Dihadapi
 Penyesuaian Desain: Mencari keseimbangan antara estetika dan fungsionalitas dalam desain yang eksklusif, terutama dalam menjaga keterbacaan teks sambil tetap menonjolkan elemen visual.
 Efek Hover yang Tepat: Mengimplementasikan efek hover yang halus namun menarik tanpa mengorbankan kinerja atau pengalaman pengguna di berbagai perangkat.
-F) Identitas Pembuat
+
+## F) Identitas Pembuat
 Nama: Andrew Isra Saputra DB
 Jurusan: Teknik Informatika, ITB (Semester 3)
 Kontak:
