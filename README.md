@@ -30,6 +30,5 @@ Efek Hover yang Tepat: Mengimplementasikan efek hover yang halus namun menarik t
 ## F) Identitas Pembuat
 Nama: Andrew Isra Saputra DB
 Jurusan: Teknik Informatika, ITB (Semester 3)
-Kontak:
 Email: andrew.israsaputra@gmail.com
 Instagram: @andrew.isra
