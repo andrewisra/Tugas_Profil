@@ -19,7 +19,8 @@ Website ini adalah profil pribadi untuk Andrew Isra Saputra DB, seorang mahasisw
 2. **Buka File HTML**: Buka file index.html di peramban (browser) Anda.
 Anda dapat melakukannya dengan klik dua kali pada file index.html atau dengan menarik dan melepaskannya ke jendela peramban.
 3. **Live Server (Opsional)**: Untuk pengalaman pengembangan yang lebih baik, Anda dapat menggunakan ekstensi "Live Server" di Visual Studio Code untuk menjalankan dan melihat perubahan secara real-time.
-D) Bonus yang Dikerjakan
+
+## D) Bonus yang Dikerjakan
  1. Deployment
  2. Kreativitas
 
